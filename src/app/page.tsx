@@ -641,6 +641,14 @@ export default function Home() {
                     "Conducting AI-driven research on cancer detection using medical imaging, focusing on pattern recognition and model accuracy.",
                   type: "Research Project",
                 },
+                {
+                  year: "May 2025- June 2025",
+                  title: "AI/ML Intern ",
+                  organization: "Grownited ",
+                  description:
+                    "Hands-on internship involving the design, optimization, and deployment of scalable machine learning models and AI-driven systems for real-world data-driven applications.",
+                  type: "Summer Internship",
+                },
               ].map((item, index) => (
                 <motion.div
                   key={index}

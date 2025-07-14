@@ -6,13 +6,13 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Ayush Thakkar - Data Scientist Portfolio",
+  title: "Ayush Thakkar - Aspiring Data Scientist",
   description:
     "Passionate data scientist turning data into decisions. Explore my projects in AI, machine learning, and data analytics.",
   keywords: "data science, machine learning, AI, python, analytics, portfolio",
   authors: [{ name: "Ayush Thakkar" }],
   openGraph: {
-    title: "Ayush Thakkar - Data Scientist Portfolio",
+    title: "Ayush Thakkar - Aspiring Data Scientist",
     description: "Passionate data scientist turning data into decisions",
     type: "website",
   },

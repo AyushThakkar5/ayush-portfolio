@@ -162,7 +162,7 @@ export default function Home() {
             className="flex flex-col sm:flex-row gap-4 justify-center items-center"
           >
             <motion.a
-              href="/resume.pdf"
+              href="/Ayush_Thakkar_Resume.docx"
               download="Ayush_Thakkar_Resume.pdf"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
